@@ -2,142 +2,115 @@
 Query 1: All Employees
 ========================================
 
-EMPLOYEE_ID FIRST_NAME           LAST_NAME                 JOB_ID         SALARY
------------ -------------------- ------------------------- ---------- ----------
-        100 Steven               King                      AD_PRES         24000
-        101 Neena                Kochhar                   AD_VP           17000
-        102 Lex                  De Haan                   AD_VP           17000
-        103 Alexander            Hunold                    IT_PROG          9000
-        104 Bruce                Ernst                     IT_PROG          6000
-        105 David                Austin                    IT_PROG          4800
-        106 Valli                Pataballa                 IT_PROG          4800
-        107 Diana                Lorentz                   IT_PROG          4200
-        108 Nancy                Greenberg                 FI_MGR          12000
-        109 Daniel               Faviet                    FI_ACCOUNT       9000
-        110 John                 Chen                      FI_ACCOUNT       8200
-
-EMPLOYEE_ID FIRST_NAME           LAST_NAME                 JOB_ID         SALARY
------------ -------------------- ------------------------- ---------- ----------
-        111 Ismael               Sciarra                   FI_ACCOUNT       7700
-        112 Jose Manuel          Urman                     FI_ACCOUNT       7800
-        113 Luis                 Popp                      FI_ACCOUNT       6900
-        114 Den                  Raphaely                  PU_MAN          11000
-        115 Alexander            Khoo                      PU_CLERK         3100
-        116 Shelli               Baida                     PU_CLERK         2900
-        117 Sigal                Tobias                    PU_CLERK         2800
-        118 Guy                  Himuro                    PU_CLERK         2600
-        119 Karen                Colmenares                PU_CLERK         2500
-        120 Matthew              Weiss                     ST_MAN           8000
-        121 Adam                 Fripp                     ST_MAN           8200
-
-EMPLOYEE_ID FIRST_NAME           LAST_NAME                 JOB_ID         SALARY
------------ -------------------- ------------------------- ---------- ----------
-        122 Payam                Kaufling                  ST_MAN           7900
-        123 Shanta               Vollman                   ST_MAN           6500
-        124 Kevin                Mourgos                   ST_MAN           5800
-        125 Julia                Nayer                     ST_CLERK         3200
-        126 Irene                Mikkilineni               ST_CLERK         2700
-        127 James                Landry                    ST_CLERK         2400
-        128 Steven               Markle                    ST_CLERK         2200
-        129 Laura                Bissot                    ST_CLERK         3300
-        130 Mozhe                Atkinson                  ST_CLERK         2800
-        131 James                Marlow                    ST_CLERK         2500
-        132 TJ                   Olson                     ST_CLERK         2100
-
-EMPLOYEE_ID FIRST_NAME           LAST_NAME                 JOB_ID         SALARY
------------ -------------------- ------------------------- ---------- ----------
-        133 Jason                Mallin                    ST_CLERK         3300
-        134 Michael              Rogers                    ST_CLERK         2900
-        135 Ki                   Gee                       ST_CLERK         2400
-        136 Hazel                Philtanker                ST_CLERK         2200
-        137 Renske               Ladwig                    ST_CLERK         3600
-        138 Stephen              Stiles                    ST_CLERK         3200
-        139 John                 Seo                       ST_CLERK         2700
-        140 Joshua               Patel                     ST_CLERK         2500
-        141 Trenna               Rajs                      ST_CLERK         3500
-        142 Curtis               Davies                    ST_CLERK         3100
-        143 Randall              Matos                     ST_CLERK         2600
-
-EMPLOYEE_ID FIRST_NAME           LAST_NAME                 JOB_ID         SALARY
------------ -------------------- ------------------------- ---------- ----------
-        144 Peter                Vargas                    ST_CLERK         2500
-        145 John                 Russell                   SA_MAN          14000
-        146 Karen                Partners                  SA_MAN          13500
-        147 Alberto              Errazuriz                 SA_MAN          12000
-        148 Gerald               Cambrault                 SA_MAN          11000
-        149 Eleni                Zlotkey                   SA_MAN          10500
-        150 Peter                Tucker                    SA_REP          10000
-        151 David                Bernstein                 SA_REP           9500
-        152 Peter                Hall                      SA_REP           9000
-        153 Christopher          Olsen                     SA_REP           8000
-        154 Nanette              Cambrault                 SA_REP           7500
-
-EMPLOYEE_ID FIRST_NAME           LAST_NAME                 JOB_ID         SALARY
------------ -------------------- ------------------------- ---------- ----------
-        155 Oliver               Tuvault                   SA_REP           7000
-        156 Janette              King                      SA_REP          10000
-        157 Patrick              Sully                     SA_REP           9500
-        158 Allan                McEwen                    SA_REP           9000
-        159 Lindsey              Smith                     SA_REP           8000
-        160 Louise               Doran                     SA_REP           7500
-        161 Sarath               Sewall                    SA_REP           7000
-        162 Clara                Vishney                   SA_REP          10500
-        163 Danielle             Greene                    SA_REP           9500
-        164 Mattea               Marvins                   SA_REP           7200
-        165 David                Lee                       SA_REP           6800
-
-EMPLOYEE_ID FIRST_NAME           LAST_NAME                 JOB_ID         SALARY
------------ -------------------- ------------------------- ---------- ----------
-        166 Sundar               Ande                      SA_REP           6400
-        167 Amit                 Banda                     SA_REP           6200
-        168 Lisa                 Ozer                      SA_REP          11500
-        169 Harrison             Bloom                     SA_REP          10000
-        170 Tayler               Fox                       SA_REP           9600
-        171 William              Smith                     SA_REP           7400
-        172 Elizabeth            Bates                     SA_REP           7300
-        173 Sundita              Kumar                     SA_REP           6100
-        174 Ellen                Abel                      SA_REP          11000
-        175 Alyssa               Hutton                    SA_REP           8800
-        176 Jonathon             Taylor                    SA_REP           8600
-
-EMPLOYEE_ID FIRST_NAME           LAST_NAME                 JOB_ID         SALARY
------------ -------------------- ------------------------- ---------- ----------
-        177 Jack                 Livingston                SA_REP           8400
-        178 Kimberely            Grant                     SA_REP           7000
-        179 Charles              Johnson                   SA_REP           6200
-        180 Winston              Taylor                    SH_CLERK         3200
-        181 Jean                 Fleaur                    SH_CLERK         3100
-        182 Martha               Sullivan                  SH_CLERK         2500
-        183 Girard               Geoni                     SH_CLERK         2800
-        184 Nandita              Sarchand                  SH_CLERK         4200
-        185 Alexis               Bull                      SH_CLERK         4100
-        186 Julia                Dellinger                 SH_CLERK         3400
-        187 Anthony              Cabrio                    SH_CLERK         3000
-
-EMPLOYEE_ID FIRST_NAME           LAST_NAME                 JOB_ID         SALARY
------------ -------------------- ------------------------- ---------- ----------
-        188 Kelly                Chung                     SH_CLERK         3800
-        189 Jennifer             Dilly                     SH_CLERK         3600
-        190 Timothy              Gates                     SH_CLERK         2900
-        191 Randall              Perkins                   SH_CLERK         2500
-        192 Sarah                Bell                      SH_CLERK         4000
-        193 Britney              Everett                   SH_CLERK         3900
-        194 Samuel               McCain                    SH_CLERK         3200
-        195 Vance                Jones                     SH_CLERK         2800
-        196 Alana                Walsh                     SH_CLERK         3100
-        197 Kevin                Feeney                    SH_CLERK         3000
-        198 Donald               OConnell                  SH_CLERK         2600
-
-EMPLOYEE_ID FIRST_NAME           LAST_NAME                 JOB_ID         SALARY
------------ -------------------- ------------------------- ---------- ----------
-        199 Douglas              Grant                     SH_CLERK         2600
-        200 Jennifer             Whalen                    AD_ASST          4400
-        201 Michael              Hartstein                 MK_MAN          13000
-        202 Pat                  Fay                       MK_REP           6000
-        203 Susan                Mavris                    HR_REP           6500
-        204 Hermann              Baer                      PR_REP          10000
-        205 Shelley              Higgins                   AC_MGR          12000
-        206 William              Gietz                     AC_ACCOUNT       8300
+EMPLOYEE_ID FIRST_NAME           LAST_NAME                 JOB_ID         SALARY                                                                                                                        
+----------- -------------------- ------------------------- ---------- ----------                                                                                                                        
+        100 Steven               King                      AD_PRES         24000                                                                                                                        
+        101 Neena                Kochhar                   AD_VP           17000                                                                                                                        
+        102 Lex                  De Haan                   AD_VP           17000                                                                                                                        
+        103 Alexander            Hunold                    IT_PROG          9000                                                                                                                        
+        104 Bruce                Ernst                     IT_PROG          6000                                                                                                                        
+        105 David                Austin                    IT_PROG          4800                                                                                                                        
+        106 Valli                Pataballa                 IT_PROG          4800                                                                                                                        
+        107 Diana                Lorentz                   IT_PROG          4200                                                                                                                        
+        108 Nancy                Greenberg                 FI_MGR          12000                                                                                                                        
+        109 Daniel               Faviet                    FI_ACCOUNT       9000                                                                                                                        
+        110 John                 Chen                      FI_ACCOUNT       8200                                                                                                                        
+        111 Ismael               Sciarra                   FI_ACCOUNT       7700                                                                                                                        
+        112 Jose Manuel          Urman                     FI_ACCOUNT       7800                                                                                                                        
+        113 Luis                 Popp                      FI_ACCOUNT       6900                                                                                                                        
+        114 Den                  Raphaely                  PU_MAN          11000                                                                                                                        
+        115 Alexander            Khoo                      PU_CLERK         3100                                                                                                                        
+        116 Shelli               Baida                     PU_CLERK         2900                                                                                                                        
+        117 Sigal                Tobias                    PU_CLERK         2800                                                                                                                        
+        118 Guy                  Himuro                    PU_CLERK         2600                                                                                                                        
+        119 Karen                Colmenares                PU_CLERK         2500                                                                                                                        
+        120 Matthew              Weiss                     ST_MAN           8000                                                                                                                        
+        121 Adam                 Fripp                     ST_MAN           8200                                                                                                                        
+        122 Payam                Kaufling                  ST_MAN           7900                                                                                                                        
+        123 Shanta               Vollman                   ST_MAN           6500                                                                                                                        
+        124 Kevin                Mourgos                   ST_MAN           5800                                                                                                                        
+        125 Julia                Nayer                     ST_CLERK         3200                                                                                                                        
+        126 Irene                Mikkilineni               ST_CLERK         2700                                                                                                                        
+        127 James                Landry                    ST_CLERK         2400                                                                                                                        
+        128 Steven               Markle                    ST_CLERK         2200                                                                                                                        
+        129 Laura                Bissot                    ST_CLERK         3300                                                                                                                        
+        130 Mozhe                Atkinson                  ST_CLERK         2800                                                                                                                        
+        131 James                Marlow                    ST_CLERK         2500                                                                                                                        
+        132 TJ                   Olson                     ST_CLERK         2100                                                                                                                        
+        133 Jason                Mallin                    ST_CLERK         3300                                                                                                                        
+        134 Michael              Rogers                    ST_CLERK         2900                                                                                                                        
+        135 Ki                   Gee                       ST_CLERK         2400                                                                                                                        
+        136 Hazel                Philtanker                ST_CLERK         2200                                                                                                                        
+        137 Renske               Ladwig                    ST_CLERK         3600                                                                                                                        
+        138 Stephen              Stiles                    ST_CLERK         3200                                                                                                                        
+        139 John                 Seo                       ST_CLERK         2700                                                                                                                        
+        140 Joshua               Patel                     ST_CLERK         2500                                                                                                                        
+        141 Trenna               Rajs                      ST_CLERK         3500                                                                                                                        
+        142 Curtis               Davies                    ST_CLERK         3100                                                                                                                        
+        143 Randall              Matos                     ST_CLERK         2600                                                                                                                        
+        144 Peter                Vargas                    ST_CLERK         2500                                                                                                                        
+        145 John                 Russell                   SA_MAN          14000                                                                                                                        
+        146 Karen                Partners                  SA_MAN          13500                                                                                                                        
+        147 Alberto              Errazuriz                 SA_MAN          12000                                                                                                                        
+        148 Gerald               Cambrault                 SA_MAN          11000                                                                                                                        
+        149 Eleni                Zlotkey                   SA_MAN          10500                                                                                                                        
+        150 Peter                Tucker                    SA_REP          10000                                                                                                                        
+        151 David                Bernstein                 SA_REP           9500                                                                                                                        
+        152 Peter                Hall                      SA_REP           9000                                                                                                                        
+        153 Christopher          Olsen                     SA_REP           8000                                                                                                                        
+        154 Nanette              Cambrault                 SA_REP           7500                                                                                                                        
+        155 Oliver               Tuvault                   SA_REP           7000                                                                                                                        
+        156 Janette              King                      SA_REP          10000                                                                                                                        
+        157 Patrick              Sully                     SA_REP           9500                                                                                                                        
+        158 Allan                McEwen                    SA_REP           9000                                                                                                                        
+        159 Lindsey              Smith                     SA_REP           8000                                                                                                                        
+        160 Louise               Doran                     SA_REP           7500                                                                                                                        
+        161 Sarath               Sewall                    SA_REP           7000                                                                                                                        
+        162 Clara                Vishney                   SA_REP          10500                                                                                                                        
+        163 Danielle             Greene                    SA_REP           9500                                                                                                                        
+        164 Mattea               Marvins                   SA_REP           7200                                                                                                                        
+        165 David                Lee                       SA_REP           6800                                                                                                                        
+        166 Sundar               Ande                      SA_REP           6400                                                                                                                        
+        167 Amit                 Banda                     SA_REP           6200                                                                                                                        
+        168 Lisa                 Ozer                      SA_REP          11500                                                                                                                        
+        169 Harrison             Bloom                     SA_REP          10000                                                                                                                        
+        170 Tayler               Fox                       SA_REP           9600                                                                                                                        
+        171 William              Smith                     SA_REP           7400                                                                                                                        
+        172 Elizabeth            Bates                     SA_REP           7300                                                                                                                        
+        173 Sundita              Kumar                     SA_REP           6100                                                                                                                        
+        174 Ellen                Abel                      SA_REP          11000                                                                                                                        
+        175 Alyssa               Hutton                    SA_REP           8800                                                                                                                        
+        176 Jonathon             Taylor                    SA_REP           8600                                                                                                                        
+        177 Jack                 Livingston                SA_REP           8400                                                                                                                        
+        178 Kimberely            Grant                     SA_REP           7000                                                                                                                        
+        179 Charles              Johnson                   SA_REP           6200                                                                                                                        
+        180 Winston              Taylor                    SH_CLERK         3200                                                                                                                        
+        181 Jean                 Fleaur                    SH_CLERK         3100                                                                                                                        
+        182 Martha               Sullivan                  SH_CLERK         2500                                                                                                                        
+        183 Girard               Geoni                     SH_CLERK         2800                                                                                                                        
+        184 Nandita              Sarchand                  SH_CLERK         4200                                                                                                                        
+        185 Alexis               Bull                      SH_CLERK         4100                                                                                                                        
+        186 Julia                Dellinger                 SH_CLERK         3400                                                                                                                        
+        187 Anthony              Cabrio                    SH_CLERK         3000                                                                                                                        
+        188 Kelly                Chung                     SH_CLERK         3800                                                                                                                        
+        189 Jennifer             Dilly                     SH_CLERK         3600                                                                                                                        
+        190 Timothy              Gates                     SH_CLERK         2900                                                                                                                        
+        191 Randall              Perkins                   SH_CLERK         2500                                                                                                                        
+        192 Sarah                Bell                      SH_CLERK         4000                                                                                                                        
+        193 Britney              Everett                   SH_CLERK         3900                                                                                                                        
+        194 Samuel               McCain                    SH_CLERK         3200                                                                                                                        
+        195 Vance                Jones                     SH_CLERK         2800                                                                                                                        
+        196 Alana                Walsh                     SH_CLERK         3100                                                                                                                        
+        197 Kevin                Feeney                    SH_CLERK         3000                                                                                                                        
+        198 Donald               OConnell                  SH_CLERK         2600                                                                                                                        
+        199 Douglas              Grant                     SH_CLERK         2600                                                                                                                        
+        200 Jennifer             Whalen                    AD_ASST          4400                                                                                                                        
+        201 Michael              Hartstein                 MK_MAN          13000                                                                                                                        
+        202 Pat                  Fay                       MK_REP           6000                                                                                                                        
+        203 Susan                Mavris                    HR_REP           6500                                                                                                                        
+        204 Hermann              Baer                      PR_REP          10000                                                                                                                        
+        205 Shelley              Higgins                   AC_MGR          12000                                                                                                                        
+        206 William              Gietz                     AC_ACCOUNT       8300                                                                                                                        
 
 107 rows selected.
 
@@ -146,23 +119,20 @@ EMPLOYEE_ID FIRST_NAME           LAST_NAME                 JOB_ID         SALARY
 Query 2: Employees by Department
 ========================================
 
-DEPARTMENT_ID EMPLOYEE_COUNT                                                    
-------------- --------------                                                    
-          100              6                                                    
-           30              6                                                    
-                           1                                                    
-           90              3                                                    
-           20              2                                                    
-           70              1                                                    
-          110              2                                                    
-           50             45                                                    
-           80             34                                                    
-           40              1                                                    
-           60              5                                                    
-
-DEPARTMENT_ID EMPLOYEE_COUNT                                                    
-------------- --------------                                                    
-           10              1                                                    
+DEPARTMENT_ID EMPLOYEE_COUNT                                                                                                                                                                            
+------------- --------------                                                                                                                                                                            
+          100              6                                                                                                                                                                            
+           30              6                                                                                                                                                                            
+                           1                                                                                                                                                                            
+           90              3                                                                                                                                                                            
+           20              2                                                                                                                                                                            
+           70              1                                                                                                                                                                            
+          110              2                                                                                                                                                                            
+           50             45                                                                                                                                                                            
+           80             34                                                                                                                                                                            
+           40              1                                                                                                                                                                            
+           60              5                                                                                                                                                                            
+           10              1                                                                                                                                                                            
 
 12 rows selected.
 
@@ -171,142 +141,115 @@ DEPARTMENT_ID EMPLOYEE_COUNT
 Query 3: Yearly Salary and Commission
 ========================================
 
-EMPLOYEE_ID FIRST_NAME           Annual Salary Annual Salary with Commission    
------------ -------------------- ------------- -----------------------------    
-        100 Steven                      288000                        288000    
-        101 Neena                       204000                        204000    
-        102 Lex                         204000                        204000    
-        103 Alexander                   108000                        108000    
-        104 Bruce                        72000                         72000    
-        105 David                        57600                         57600    
-        106 Valli                        57600                         57600    
-        107 Diana                        50400                         50400    
-        108 Nancy                       144000                        144000    
-        109 Daniel                      108000                        108000    
-        110 John                         98400                         98400    
-
-EMPLOYEE_ID FIRST_NAME           Annual Salary Annual Salary with Commission    
------------ -------------------- ------------- -----------------------------    
-        111 Ismael                       92400                         92400    
-        112 Jose Manuel                  93600                         93600    
-        113 Luis                         82800                         82800    
-        114 Den                         132000                        132000    
-        115 Alexander                    37200                         37200    
-        116 Shelli                       34800                         34800    
-        117 Sigal                        33600                         33600    
-        118 Guy                          31200                         31200    
-        119 Karen                        30000                         30000    
-        120 Matthew                      96000                         96000    
-        121 Adam                         98400                         98400    
-
-EMPLOYEE_ID FIRST_NAME           Annual Salary Annual Salary with Commission    
------------ -------------------- ------------- -----------------------------    
-        122 Payam                        94800                         94800    
-        123 Shanta                       78000                         78000    
-        124 Kevin                        69600                         69600    
-        125 Julia                        38400                         38400    
-        126 Irene                        32400                         32400    
-        127 James                        28800                         28800    
-        128 Steven                       26400                         26400    
-        129 Laura                        39600                         39600    
-        130 Mozhe                        33600                         33600    
-        131 James                        30000                         30000    
-        132 TJ                           25200                         25200    
-
-EMPLOYEE_ID FIRST_NAME           Annual Salary Annual Salary with Commission    
------------ -------------------- ------------- -----------------------------    
-        133 Jason                        39600                         39600    
-        134 Michael                      34800                         34800    
-        135 Ki                           28800                         28800    
-        136 Hazel                        26400                         26400    
-        137 Renske                       43200                         43200    
-        138 Stephen                      38400                         38400    
-        139 John                         32400                         32400    
-        140 Joshua                       30000                         30000    
-        141 Trenna                       42000                         42000    
-        142 Curtis                       37200                         37200    
-        143 Randall                      31200                         31200    
-
-EMPLOYEE_ID FIRST_NAME           Annual Salary Annual Salary with Commission    
------------ -------------------- ------------- -----------------------------    
-        144 Peter                        30000                         30000    
-        145 John                        168000                        173600    
-        146 Karen                       162000                        166050    
-        147 Alberto                     144000                        147600    
-        148 Gerald                      132000                        135300    
-        149 Eleni                       126000                        128100    
-        150 Peter                       120000                        123000    
-        151 David                       114000                        116375    
-        152 Peter                       108000                        110250    
-        153 Christopher                  96000                         97600    
-        154 Nanette                      90000                         91500    
-
-EMPLOYEE_ID FIRST_NAME           Annual Salary Annual Salary with Commission    
------------ -------------------- ------------- -----------------------------    
-        155 Oliver                       84000                         85050    
-        156 Janette                     120000                        123500    
-        157 Patrick                     114000                        117325    
-        158 Allan                       108000                        111150    
-        159 Lindsey                      96000                         98400    
-        160 Louise                       90000                         92250    
-        161 Sarath                       84000                         85750    
-        162 Clara                       126000                        128625    
-        163 Danielle                    114000                        115425    
-        164 Mattea                       86400                         87120    
-        165 David                        81600                         82280    
-
-EMPLOYEE_ID FIRST_NAME           Annual Salary Annual Salary with Commission    
------------ -------------------- ------------- -----------------------------    
-        166 Sundar                       76800                         77440    
-        167 Amit                         74400                         75020    
-        168 Lisa                        138000                        140875    
-        169 Harrison                    120000                        122000    
-        170 Tayler                      115200                        117120    
-        171 William                      88800                         89910    
-        172 Elizabeth                    87600                         88695    
-        173 Sundita                      73200                         73810    
-        174 Ellen                       132000                        135300    
-        175 Alyssa                      105600                        107800    
-        176 Jonathon                    103200                        104920    
-
-EMPLOYEE_ID FIRST_NAME           Annual Salary Annual Salary with Commission    
------------ -------------------- ------------- -----------------------------    
-        177 Jack                        100800                        102480    
-        178 Kimberely                    84000                         85050    
-        179 Charles                      74400                         75020    
-        180 Winston                      38400                         38400    
-        181 Jean                         37200                         37200    
-        182 Martha                       30000                         30000    
-        183 Girard                       33600                         33600    
-        184 Nandita                      50400                         50400    
-        185 Alexis                       49200                         49200    
-        186 Julia                        40800                         40800    
-        187 Anthony                      36000                         36000    
-
-EMPLOYEE_ID FIRST_NAME           Annual Salary Annual Salary with Commission    
------------ -------------------- ------------- -----------------------------    
-        188 Kelly                        45600                         45600    
-        189 Jennifer                     43200                         43200    
-        190 Timothy                      34800                         34800    
-        191 Randall                      30000                         30000    
-        192 Sarah                        48000                         48000    
-        193 Britney                      46800                         46800    
-        194 Samuel                       38400                         38400    
-        195 Vance                        33600                         33600    
-        196 Alana                        37200                         37200    
-        197 Kevin                        36000                         36000    
-        198 Donald                       31200                         31200    
-
-EMPLOYEE_ID FIRST_NAME           Annual Salary Annual Salary with Commission    
------------ -------------------- ------------- -----------------------------    
-        199 Douglas                      31200                         31200    
-        200 Jennifer                     52800                         52800    
-        201 Michael                     156000                        156000    
-        202 Pat                          72000                         72000    
-        203 Susan                        78000                         78000    
-        204 Hermann                     120000                        120000    
-        205 Shelley                     144000                        144000    
-        206 William                      99600                         99600    
+EMPLOYEE_ID FIRST_NAME           Annual Salary Annual Salary with Commission                                                                                                                            
+----------- -------------------- ------------- -----------------------------                                                                                                                            
+        100 Steven                      288000                        288000                                                                                                                            
+        101 Neena                       204000                        204000                                                                                                                            
+        102 Lex                         204000                        204000                                                                                                                            
+        103 Alexander                   108000                        108000                                                                                                                            
+        104 Bruce                        72000                         72000                                                                                                                            
+        105 David                        57600                         57600                                                                                                                            
+        106 Valli                        57600                         57600                                                                                                                            
+        107 Diana                        50400                         50400                                                                                                                            
+        108 Nancy                       144000                        144000                                                                                                                            
+        109 Daniel                      108000                        108000                                                                                                                            
+        110 John                         98400                         98400                                                                                                                            
+        111 Ismael                       92400                         92400                                                                                                                            
+        112 Jose Manuel                  93600                         93600                                                                                                                            
+        113 Luis                         82800                         82800                                                                                                                            
+        114 Den                         132000                        132000                                                                                                                            
+        115 Alexander                    37200                         37200                                                                                                                            
+        116 Shelli                       34800                         34800                                                                                                                            
+        117 Sigal                        33600                         33600                                                                                                                            
+        118 Guy                          31200                         31200                                                                                                                            
+        119 Karen                        30000                         30000                                                                                                                            
+        120 Matthew                      96000                         96000                                                                                                                            
+        121 Adam                         98400                         98400                                                                                                                            
+        122 Payam                        94800                         94800                                                                                                                            
+        123 Shanta                       78000                         78000                                                                                                                            
+        124 Kevin                        69600                         69600                                                                                                                            
+        125 Julia                        38400                         38400                                                                                                                            
+        126 Irene                        32400                         32400                                                                                                                            
+        127 James                        28800                         28800                                                                                                                            
+        128 Steven                       26400                         26400                                                                                                                            
+        129 Laura                        39600                         39600                                                                                                                            
+        130 Mozhe                        33600                         33600                                                                                                                            
+        131 James                        30000                         30000                                                                                                                            
+        132 TJ                           25200                         25200                                                                                                                            
+        133 Jason                        39600                         39600                                                                                                                            
+        134 Michael                      34800                         34800                                                                                                                            
+        135 Ki                           28800                         28800                                                                                                                            
+        136 Hazel                        26400                         26400                                                                                                                            
+        137 Renske                       43200                         43200                                                                                                                            
+        138 Stephen                      38400                         38400                                                                                                                            
+        139 John                         32400                         32400                                                                                                                            
+        140 Joshua                       30000                         30000                                                                                                                            
+        141 Trenna                       42000                         42000                                                                                                                            
+        142 Curtis                       37200                         37200                                                                                                                            
+        143 Randall                      31200                         31200                                                                                                                            
+        144 Peter                        30000                         30000                                                                                                                            
+        145 John                        168000                        173600                                                                                                                            
+        146 Karen                       162000                        166050                                                                                                                            
+        147 Alberto                     144000                        147600                                                                                                                            
+        148 Gerald                      132000                        135300                                                                                                                            
+        149 Eleni                       126000                        128100                                                                                                                            
+        150 Peter                       120000                        123000                                                                                                                            
+        151 David                       114000                        116375                                                                                                                            
+        152 Peter                       108000                        110250                                                                                                                            
+        153 Christopher                  96000                         97600                                                                                                                            
+        154 Nanette                      90000                         91500                                                                                                                            
+        155 Oliver                       84000                         85050                                                                                                                            
+        156 Janette                     120000                        123500                                                                                                                            
+        157 Patrick                     114000                        117325                                                                                                                            
+        158 Allan                       108000                        111150                                                                                                                            
+        159 Lindsey                      96000                         98400                                                                                                                            
+        160 Louise                       90000                         92250                                                                                                                            
+        161 Sarath                       84000                         85750                                                                                                                            
+        162 Clara                       126000                        128625                                                                                                                            
+        163 Danielle                    114000                        115425                                                                                                                            
+        164 Mattea                       86400                         87120                                                                                                                            
+        165 David                        81600                         82280                                                                                                                            
+        166 Sundar                       76800                         77440                                                                                                                            
+        167 Amit                         74400                         75020                                                                                                                            
+        168 Lisa                        138000                        140875                                                                                                                            
+        169 Harrison                    120000                        122000                                                                                                                            
+        170 Tayler                      115200                        117120                                                                                                                            
+        171 William                      88800                         89910                                                                                                                            
+        172 Elizabeth                    87600                         88695                                                                                                                            
+        173 Sundita                      73200                         73810                                                                                                                            
+        174 Ellen                       132000                        135300                                                                                                                            
+        175 Alyssa                      105600                        107800                                                                                                                            
+        176 Jonathon                    103200                        104920                                                                                                                            
+        177 Jack                        100800                        102480                                                                                                                            
+        178 Kimberely                    84000                         85050                                                                                                                            
+        179 Charles                      74400                         75020                                                                                                                            
+        180 Winston                      38400                         38400                                                                                                                            
+        181 Jean                         37200                         37200                                                                                                                            
+        182 Martha                       30000                         30000                                                                                                                            
+        183 Girard                       33600                         33600                                                                                                                            
+        184 Nandita                      50400                         50400                                                                                                                            
+        185 Alexis                       49200                         49200                                                                                                                            
+        186 Julia                        40800                         40800                                                                                                                            
+        187 Anthony                      36000                         36000                                                                                                                            
+        188 Kelly                        45600                         45600                                                                                                                            
+        189 Jennifer                     43200                         43200                                                                                                                            
+        190 Timothy                      34800                         34800                                                                                                                            
+        191 Randall                      30000                         30000                                                                                                                            
+        192 Sarah                        48000                         48000                                                                                                                            
+        193 Britney                      46800                         46800                                                                                                                            
+        194 Samuel                       38400                         38400                                                                                                                            
+        195 Vance                        33600                         33600                                                                                                                            
+        196 Alana                        37200                         37200                                                                                                                            
+        197 Kevin                        36000                         36000                                                                                                                            
+        198 Donald                       31200                         31200                                                                                                                            
+        199 Douglas                      31200                         31200                                                                                                                            
+        200 Jennifer                     52800                         52800                                                                                                                            
+        201 Michael                     156000                        156000                                                                                                                            
+        202 Pat                          72000                         72000                                                                                                                            
+        203 Susan                        78000                         78000                                                                                                                            
+        204 Hermann                     120000                        120000                                                                                                                            
+        205 Shelley                     144000                        144000                                                                                                                            
+        206 William                      99600                         99600                                                                                                                            
 
 107 rows selected.
 
