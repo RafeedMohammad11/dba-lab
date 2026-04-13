@@ -166,3 +166,147 @@ DEPARTMENT_ID EMPLOYEE_COUNT
 
 12 rows selected.
 
+
+========================================
+Query 3: Yearly Salary and Commission
+========================================
+
+EMPLOYEE_ID FIRST_NAME           Annual Salary Annual Salary with Commission    
+----------- -------------------- ------------- -----------------------------    
+        100 Steven                      288000                        288000    
+        101 Neena                       204000                        204000    
+        102 Lex                         204000                        204000    
+        103 Alexander                   108000                        108000    
+        104 Bruce                        72000                         72000    
+        105 David                        57600                         57600    
+        106 Valli                        57600                         57600    
+        107 Diana                        50400                         50400    
+        108 Nancy                       144000                        144000    
+        109 Daniel                      108000                        108000    
+        110 John                         98400                         98400    
+
+EMPLOYEE_ID FIRST_NAME           Annual Salary Annual Salary with Commission    
+----------- -------------------- ------------- -----------------------------    
+        111 Ismael                       92400                         92400    
+        112 Jose Manuel                  93600                         93600    
+        113 Luis                         82800                         82800    
+        114 Den                         132000                        132000    
+        115 Alexander                    37200                         37200    
+        116 Shelli                       34800                         34800    
+        117 Sigal                        33600                         33600    
+        118 Guy                          31200                         31200    
+        119 Karen                        30000                         30000    
+        120 Matthew                      96000                         96000    
+        121 Adam                         98400                         98400    
+
+EMPLOYEE_ID FIRST_NAME           Annual Salary Annual Salary with Commission    
+----------- -------------------- ------------- -----------------------------    
+        122 Payam                        94800                         94800    
+        123 Shanta                       78000                         78000    
+        124 Kevin                        69600                         69600    
+        125 Julia                        38400                         38400    
+        126 Irene                        32400                         32400    
+        127 James                        28800                         28800    
+        128 Steven                       26400                         26400    
+        129 Laura                        39600                         39600    
+        130 Mozhe                        33600                         33600    
+        131 James                        30000                         30000    
+        132 TJ                           25200                         25200    
+
+EMPLOYEE_ID FIRST_NAME           Annual Salary Annual Salary with Commission    
+----------- -------------------- ------------- -----------------------------    
+        133 Jason                        39600                         39600    
+        134 Michael                      34800                         34800    
+        135 Ki                           28800                         28800    
+        136 Hazel                        26400                         26400    
+        137 Renske                       43200                         43200    
+        138 Stephen                      38400                         38400    
+        139 John                         32400                         32400    
+        140 Joshua                       30000                         30000    
+        141 Trenna                       42000                         42000    
+        142 Curtis                       37200                         37200    
+        143 Randall                      31200                         31200    
+
+EMPLOYEE_ID FIRST_NAME           Annual Salary Annual Salary with Commission    
+----------- -------------------- ------------- -----------------------------    
+        144 Peter                        30000                         30000    
+        145 John                        168000                        173600    
+        146 Karen                       162000                        166050    
+        147 Alberto                     144000                        147600    
+        148 Gerald                      132000                        135300    
+        149 Eleni                       126000                        128100    
+        150 Peter                       120000                        123000    
+        151 David                       114000                        116375    
+        152 Peter                       108000                        110250    
+        153 Christopher                  96000                         97600    
+        154 Nanette                      90000                         91500    
+
+EMPLOYEE_ID FIRST_NAME           Annual Salary Annual Salary with Commission    
+----------- -------------------- ------------- -----------------------------    
+        155 Oliver                       84000                         85050    
+        156 Janette                     120000                        123500    
+        157 Patrick                     114000                        117325    
+        158 Allan                       108000                        111150    
+        159 Lindsey                      96000                         98400    
+        160 Louise                       90000                         92250    
+        161 Sarath                       84000                         85750    
+        162 Clara                       126000                        128625    
+        163 Danielle                    114000                        115425    
+        164 Mattea                       86400                         87120    
+        165 David                        81600                         82280    
+
+EMPLOYEE_ID FIRST_NAME           Annual Salary Annual Salary with Commission    
+----------- -------------------- ------------- -----------------------------    
+        166 Sundar                       76800                         77440    
+        167 Amit                         74400                         75020    
+        168 Lisa                        138000                        140875    
+        169 Harrison                    120000                        122000    
+        170 Tayler                      115200                        117120    
+        171 William                      88800                         89910    
+        172 Elizabeth                    87600                         88695    
+        173 Sundita                      73200                         73810    
+        174 Ellen                       132000                        135300    
+        175 Alyssa                      105600                        107800    
+        176 Jonathon                    103200                        104920    
+
+EMPLOYEE_ID FIRST_NAME           Annual Salary Annual Salary with Commission    
+----------- -------------------- ------------- -----------------------------    
+        177 Jack                        100800                        102480    
+        178 Kimberely                    84000                         85050    
+        179 Charles                      74400                         75020    
+        180 Winston                      38400                         38400    
+        181 Jean                         37200                         37200    
+        182 Martha                       30000                         30000    
+        183 Girard                       33600                         33600    
+        184 Nandita                      50400                         50400    
+        185 Alexis                       49200                         49200    
+        186 Julia                        40800                         40800    
+        187 Anthony                      36000                         36000    
+
+EMPLOYEE_ID FIRST_NAME           Annual Salary Annual Salary with Commission    
+----------- -------------------- ------------- -----------------------------    
+        188 Kelly                        45600                         45600    
+        189 Jennifer                     43200                         43200    
+        190 Timothy                      34800                         34800    
+        191 Randall                      30000                         30000    
+        192 Sarah                        48000                         48000    
+        193 Britney                      46800                         46800    
+        194 Samuel                       38400                         38400    
+        195 Vance                        33600                         33600    
+        196 Alana                        37200                         37200    
+        197 Kevin                        36000                         36000    
+        198 Donald                       31200                         31200    
+
+EMPLOYEE_ID FIRST_NAME           Annual Salary Annual Salary with Commission    
+----------- -------------------- ------------- -----------------------------    
+        199 Douglas                      31200                         31200    
+        200 Jennifer                     52800                         52800    
+        201 Michael                     156000                        156000    
+        202 Pat                          72000                         72000    
+        203 Susan                        78000                         78000    
+        204 Hermann                     120000                        120000    
+        205 Shelley                     144000                        144000    
+        206 William                      99600                         99600    
+
+107 rows selected.
+

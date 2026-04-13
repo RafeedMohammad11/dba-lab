@@ -30,6 +30,18 @@ PROMPT Query 2: Employees by Department
 PROMPT ========================================
 SELECT department_id, COUNT(*) as employee_count FROM employees GROUP BY department_id;
 
+-- Add spacing between queries
+PROMPT 
+
+-- ============================================
+-- Query 3: Yearly Salary and Commission
+-- ============================================
+PROMPT ========================================
+PROMPT Query 3: Yearly Salary and Commission
+PROMPT ========================================
+select employee_id, first_name, salary * 12 as "Annual Salary", salary*12 + salary * nvl(commission_pct, 0) as "Annual Salary with Commission"
+from Employees;
+
 -- Stop recording
 SPOOL OFF
 
@@ -38,3 +50,4 @@ PROMPT .
 PROMPT ========================================
 PROMPT Output saved to lab-01-output.txt
 PROMPT ========================================
+EXIT;
