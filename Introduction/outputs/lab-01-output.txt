@@ -1,0 +1,168 @@
+========================================
+Query 1: All Employees
+========================================
+
+EMPLOYEE_ID FIRST_NAME           LAST_NAME                 JOB_ID         SALARY
+----------- -------------------- ------------------------- ---------- ----------
+        100 Steven               King                      AD_PRES         24000
+        101 Neena                Kochhar                   AD_VP           17000
+        102 Lex                  De Haan                   AD_VP           17000
+        103 Alexander            Hunold                    IT_PROG          9000
+        104 Bruce                Ernst                     IT_PROG          6000
+        105 David                Austin                    IT_PROG          4800
+        106 Valli                Pataballa                 IT_PROG          4800
+        107 Diana                Lorentz                   IT_PROG          4200
+        108 Nancy                Greenberg                 FI_MGR          12000
+        109 Daniel               Faviet                    FI_ACCOUNT       9000
+        110 John                 Chen                      FI_ACCOUNT       8200
+
+EMPLOYEE_ID FIRST_NAME           LAST_NAME                 JOB_ID         SALARY
+----------- -------------------- ------------------------- ---------- ----------
+        111 Ismael               Sciarra                   FI_ACCOUNT       7700
+        112 Jose Manuel          Urman                     FI_ACCOUNT       7800
+        113 Luis                 Popp                      FI_ACCOUNT       6900
+        114 Den                  Raphaely                  PU_MAN          11000
+        115 Alexander            Khoo                      PU_CLERK         3100
+        116 Shelli               Baida                     PU_CLERK         2900
+        117 Sigal                Tobias                    PU_CLERK         2800
+        118 Guy                  Himuro                    PU_CLERK         2600
+        119 Karen                Colmenares                PU_CLERK         2500
+        120 Matthew              Weiss                     ST_MAN           8000
+        121 Adam                 Fripp                     ST_MAN           8200
+
+EMPLOYEE_ID FIRST_NAME           LAST_NAME                 JOB_ID         SALARY
+----------- -------------------- ------------------------- ---------- ----------
+        122 Payam                Kaufling                  ST_MAN           7900
+        123 Shanta               Vollman                   ST_MAN           6500
+        124 Kevin                Mourgos                   ST_MAN           5800
+        125 Julia                Nayer                     ST_CLERK         3200
+        126 Irene                Mikkilineni               ST_CLERK         2700
+        127 James                Landry                    ST_CLERK         2400
+        128 Steven               Markle                    ST_CLERK         2200
+        129 Laura                Bissot                    ST_CLERK         3300
+        130 Mozhe                Atkinson                  ST_CLERK         2800
+        131 James                Marlow                    ST_CLERK         2500
+        132 TJ                   Olson                     ST_CLERK         2100
+
+EMPLOYEE_ID FIRST_NAME           LAST_NAME                 JOB_ID         SALARY
+----------- -------------------- ------------------------- ---------- ----------
+        133 Jason                Mallin                    ST_CLERK         3300
+        134 Michael              Rogers                    ST_CLERK         2900
+        135 Ki                   Gee                       ST_CLERK         2400
+        136 Hazel                Philtanker                ST_CLERK         2200
+        137 Renske               Ladwig                    ST_CLERK         3600
+        138 Stephen              Stiles                    ST_CLERK         3200
+        139 John                 Seo                       ST_CLERK         2700
+        140 Joshua               Patel                     ST_CLERK         2500
+        141 Trenna               Rajs                      ST_CLERK         3500
+        142 Curtis               Davies                    ST_CLERK         3100
+        143 Randall              Matos                     ST_CLERK         2600
+
+EMPLOYEE_ID FIRST_NAME           LAST_NAME                 JOB_ID         SALARY
+----------- -------------------- ------------------------- ---------- ----------
+        144 Peter                Vargas                    ST_CLERK         2500
+        145 John                 Russell                   SA_MAN          14000
+        146 Karen                Partners                  SA_MAN          13500
+        147 Alberto              Errazuriz                 SA_MAN          12000
+        148 Gerald               Cambrault                 SA_MAN          11000
+        149 Eleni                Zlotkey                   SA_MAN          10500
+        150 Peter                Tucker                    SA_REP          10000
+        151 David                Bernstein                 SA_REP           9500
+        152 Peter                Hall                      SA_REP           9000
+        153 Christopher          Olsen                     SA_REP           8000
+        154 Nanette              Cambrault                 SA_REP           7500
+
+EMPLOYEE_ID FIRST_NAME           LAST_NAME                 JOB_ID         SALARY
+----------- -------------------- ------------------------- ---------- ----------
+        155 Oliver               Tuvault                   SA_REP           7000
+        156 Janette              King                      SA_REP          10000
+        157 Patrick              Sully                     SA_REP           9500
+        158 Allan                McEwen                    SA_REP           9000
+        159 Lindsey              Smith                     SA_REP           8000
+        160 Louise               Doran                     SA_REP           7500
+        161 Sarath               Sewall                    SA_REP           7000
+        162 Clara                Vishney                   SA_REP          10500
+        163 Danielle             Greene                    SA_REP           9500
+        164 Mattea               Marvins                   SA_REP           7200
+        165 David                Lee                       SA_REP           6800
+
+EMPLOYEE_ID FIRST_NAME           LAST_NAME                 JOB_ID         SALARY
+----------- -------------------- ------------------------- ---------- ----------
+        166 Sundar               Ande                      SA_REP           6400
+        167 Amit                 Banda                     SA_REP           6200
+        168 Lisa                 Ozer                      SA_REP          11500
+        169 Harrison             Bloom                     SA_REP          10000
+        170 Tayler               Fox                       SA_REP           9600
+        171 William              Smith                     SA_REP           7400
+        172 Elizabeth            Bates                     SA_REP           7300
+        173 Sundita              Kumar                     SA_REP           6100
+        174 Ellen                Abel                      SA_REP          11000
+        175 Alyssa               Hutton                    SA_REP           8800
+        176 Jonathon             Taylor                    SA_REP           8600
+
+EMPLOYEE_ID FIRST_NAME           LAST_NAME                 JOB_ID         SALARY
+----------- -------------------- ------------------------- ---------- ----------
+        177 Jack                 Livingston                SA_REP           8400
+        178 Kimberely            Grant                     SA_REP           7000
+        179 Charles              Johnson                   SA_REP           6200
+        180 Winston              Taylor                    SH_CLERK         3200
+        181 Jean                 Fleaur                    SH_CLERK         3100
+        182 Martha               Sullivan                  SH_CLERK         2500
+        183 Girard               Geoni                     SH_CLERK         2800
+        184 Nandita              Sarchand                  SH_CLERK         4200
+        185 Alexis               Bull                      SH_CLERK         4100
+        186 Julia                Dellinger                 SH_CLERK         3400
+        187 Anthony              Cabrio                    SH_CLERK         3000
+
+EMPLOYEE_ID FIRST_NAME           LAST_NAME                 JOB_ID         SALARY
+----------- -------------------- ------------------------- ---------- ----------
+        188 Kelly                Chung                     SH_CLERK         3800
+        189 Jennifer             Dilly                     SH_CLERK         3600
+        190 Timothy              Gates                     SH_CLERK         2900
+        191 Randall              Perkins                   SH_CLERK         2500
+        192 Sarah                Bell                      SH_CLERK         4000
+        193 Britney              Everett                   SH_CLERK         3900
+        194 Samuel               McCain                    SH_CLERK         3200
+        195 Vance                Jones                     SH_CLERK         2800
+        196 Alana                Walsh                     SH_CLERK         3100
+        197 Kevin                Feeney                    SH_CLERK         3000
+        198 Donald               OConnell                  SH_CLERK         2600
+
+EMPLOYEE_ID FIRST_NAME           LAST_NAME                 JOB_ID         SALARY
+----------- -------------------- ------------------------- ---------- ----------
+        199 Douglas              Grant                     SH_CLERK         2600
+        200 Jennifer             Whalen                    AD_ASST          4400
+        201 Michael              Hartstein                 MK_MAN          13000
+        202 Pat                  Fay                       MK_REP           6000
+        203 Susan                Mavris                    HR_REP           6500
+        204 Hermann              Baer                      PR_REP          10000
+        205 Shelley              Higgins                   AC_MGR          12000
+        206 William              Gietz                     AC_ACCOUNT       8300
+
+107 rows selected.
+
+
+========================================
+Query 2: Employees by Department
+========================================
+
+DEPARTMENT_ID EMPLOYEE_COUNT                                                    
+------------- --------------                                                    
+          100              6                                                    
+           30              6                                                    
+                           1                                                    
+           90              3                                                    
+           20              2                                                    
+           70              1                                                    
+          110              2                                                    
+           50             45                                                    
+           80             34                                                    
+           40              1                                                    
+           60              5                                                    
+
+DEPARTMENT_ID EMPLOYEE_COUNT                                                    
+------------- --------------                                                    
+           10              1                                                    
+
+12 rows selected.
+
